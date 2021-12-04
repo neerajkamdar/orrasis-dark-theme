@@ -1,5 +1,5 @@
 # Orrasis Dark Theme
-A dark theme with fun colours made with love by orrasis.com :)
+A dark theme with fun colours for Panic's Nova code editor made with love :)
 
 ## Install
 
@@ -46,3 +46,7 @@ A dark theme with fun colours made with love by orrasis.com :)
 
 ### Python
 ![](./Images/theme/python.jpg)
+
+## Contact
+
+If you have any bugs to report or requests, please email me at info@orrasis.com.
