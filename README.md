@@ -12,40 +12,40 @@ A dark theme with fun colours for Panic's Nova code editor made with love :)
 ## Screenshots for various code samples
 
 ### HTML
-![](./Images/theme/html.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/html.jpg)
 
 ### CSS
-![](./Images/theme/css.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/css.jpg)
 
 ### SASS
-![](./Images/theme/sass.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/sass.jpg)
 
 ### js
-![](./Images/theme/js.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/js.jpg)
 
 ### PHP
-![](./Images/theme/php.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/php.jpg)
 
 ### HTML-PHP
-![](./Images/theme/html-php.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/html-php.jpg)
 
 ### json
-![](./Images/theme/json.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/json.jpg)
 
 ### Markdown
-![](./Images/theme/markdown.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/markdown.jpg)
 
 ### Vue
-![](./Images/theme/vue.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/vue.jpg)
 
 ### Typescript
-![](./Images/theme/typescript.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/typescript.jpg)
 
 ### React
-![](./Images/theme/react.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/react.jpg)
 
 ### Python
-![](./Images/theme/python.jpg)
+![](https://www.orrasis.com/img/orrasis-dark-theme/python.jpg)
 
 ## Contact
 
