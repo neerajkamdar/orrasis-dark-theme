@@ -1,8 +1,13 @@
 {
     "identifier": "orrasis.OrrasisDarkTheme",
     "name": "Orrasis Dark Theme",
-    "organization": "Orrasis.com",
-    "description": "A dark theme with fun colours",
+    "organization": "Orrasis",
+    "description": "A dark theme with fun colours made with love by orrasis.com :)",
     "version": "1.0",
-    "categories": ["themes"]
+    "categories": ["themes"],
+    "bugs": {
+        "url": "https://orrasis.com/contact",
+        "email": "info@orrasis.com"
+    },
+    "repository": "https://github.com/neerajkamdar/orrasis-dark-theme"
 }
