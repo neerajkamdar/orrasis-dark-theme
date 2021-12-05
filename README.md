@@ -49,4 +49,4 @@ A dark theme with fun colours for Panic's Nova code editor made with love :)
 
 ## Contact
 
-If you have any bugs to report or requests, please email me at info@orrasis.com.
+If you have any requests or any bugs to report, please email me at info@orrasis.com.
