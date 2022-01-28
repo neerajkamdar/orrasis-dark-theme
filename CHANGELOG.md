@@ -4,4 +4,16 @@ Initial release
 
 ## Version 1.0.1
 
-Updated Images in README
+Updated images in README
+
+## Version 1.0.2
+
+Updated colours
+
+## Version 1.0.3
+
+Updated colours
+
+## Version 1.0.4
+
+Updated image URLs in README

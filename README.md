@@ -1,4 +1,5 @@
 # Orrasis Dark Theme
+
 A dark theme with fun colours for Panic's Nova code editor made with love :)
 
 ## Install
@@ -12,40 +13,52 @@ A dark theme with fun colours for Panic's Nova code editor made with love :)
 ## Screenshots for various code samples
 
 ### HTML
-![](https://www.orrasis.com/img/orrasis-dark-theme/html.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/html.jpg)
 
 ### CSS
-![](https://www.orrasis.com/img/orrasis-dark-theme/css.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/css.jpg)
 
 ### SASS
-![](https://www.orrasis.com/img/orrasis-dark-theme/sass.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/sass.jpg)
 
 ### js
-![](https://www.orrasis.com/img/orrasis-dark-theme/js.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/js.jpg)
 
 ### PHP
-![](https://www.orrasis.com/img/orrasis-dark-theme/php.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/php.jpg)
 
 ### HTML-PHP
-![](https://www.orrasis.com/img/orrasis-dark-theme/html-php.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/html-php.jpg)
 
 ### json
-![](https://www.orrasis.com/img/orrasis-dark-theme/json.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/json.jpg)
 
 ### Markdown
-![](https://www.orrasis.com/img/orrasis-dark-theme/markdown.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/markdown.jpg)
 
 ### Vue
-![](https://www.orrasis.com/img/orrasis-dark-theme/vue.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/vue.jpg)
 
 ### Typescript
-![](https://www.orrasis.com/img/orrasis-dark-theme/typescript.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/typescript.jpg)
 
 ### React
-![](https://www.orrasis.com/img/orrasis-dark-theme/react.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/react.jpg)
 
 ### Python
-![](https://www.orrasis.com/img/orrasis-dark-theme/python.jpg)
+
+![](https://www.orrasis.com/assets/img/orrasis-dark-theme/python.jpg)
 
 ## Contact
 
