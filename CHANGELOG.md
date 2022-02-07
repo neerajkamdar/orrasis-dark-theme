@@ -1,19 +1,23 @@
-## Version 1.0
+## Version 1.0.5
 
-Initial release
+Updated some colours
 
-## Version 1.0.1
+## Version 1.0.4
 
-Updated images in README
-
-## Version 1.0.2
-
-Updated colours
+Updated image URLs in README
 
 ## Version 1.0.3
 
 Updated colours
 
-## Version 1.0.4
+## Version 1.0.2
 
-Updated image URLs in README
+Updated colours
+
+## Version 1.0.1
+
+Updated images in README
+
+## Version 1.0
+
+Initial release

@@ -28,7 +28,12 @@ meta.button {
   color: white;
 }
 meta.button.highlighted {
-  background: linear-gradient(hsl(210, 5%, 42%), hsl(210, 5%, 34%));
+  background: linear-gradient(hsl(210, 70%, 22%), hsl(210, 100%, 25%));
+  color: white;
+}
+meta.button.highlighted.selected {
+  background: linear-gradient(hsl(210, 70%, 22%), hsl(210, 71%, 37%));
+  border: linear-gradient(hsl(210, 70%, 22%), hsl(210, 71%, 37%));
   color: white;
 }
 meta.button.selected {
@@ -53,7 +58,7 @@ meta.textfield.highlighted {
  * Document styles
  */
 meta.document {
-  background-color: #14203a;
+  background-color: #0e172b;
   border-color: #4c6db5;
 }
 
@@ -62,10 +67,7 @@ meta.document.button {
   border: linear-gradient(hsl(210, 5%, 11%), hsl(210, 5%, 8%));
 }
 meta.document.button.disabled {
-  background: linear-gradient(
-    hsla(220, 62%, 14%, 0.3),
-    hsla(220, 63%, 15%, 0.3)
-  );
+  background: linear-gradient(hsla(220, 62%, 14%, 0.3), hsla(220, 63%, 15%, 0.3));
 }
 meta.document.button.highlighted {
   background: linear-gradient(hsl(210, 78%, 22%), hsl(210, 69%, 28%));
@@ -88,6 +90,7 @@ meta.text.invisible {
   color: hsla(210, 100%, 90%, 0.15);
 }
 meta.text.selected {
+  background-color: #0f3a7c;
 }
 
 /* Cursor */

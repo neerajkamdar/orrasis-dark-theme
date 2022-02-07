@@ -3,10 +3,8 @@
   "name": "Orrasis Dark Theme",
   "organization": "Orrasis",
   "description": "A dark theme with fun colours, made with love by orrasis.com :)",
-  "version": "1.0.4",
-  "categories": [
-    "themes"
-  ],
+  "version": "1.0.5",
+  "categories": ["themes"],
   "bugs": {
     "url": "https://orrasis.com/contact",
     "email": "info@orrasis.com"
