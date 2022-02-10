@@ -1,3 +1,8 @@
+## Version 1.0.6
+
+Updated some colours for PHP
+Updated colour for HTML links
+
 ## Version 1.0.5
 
 Updated some colours

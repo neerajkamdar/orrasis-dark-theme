@@ -270,7 +270,7 @@ markup.code {
   font-family: monospace;
 }
 markup.link {
-  color: #65b2ff;
+  color: #2994ff;
 }
 markdown.markup.block.quote {
   color: #ff64db;
@@ -321,7 +321,7 @@ tag.attribute.operator {
   color: #e7ffd7;
 }
 tag.attribute.value.link {
-  color: #92c5f8;
+  color: #2994ff;
 }
 
 /* Styles */
@@ -445,13 +445,16 @@ php.definition.identifier.method.name,
 php.identifier.method.static {
   color: #ffe8db;
 }
+php.identifier.property {
+  color: #ee883f;
+}
 php.definition.method.static {
   color: #ffac7c;
 }
 php.identifier.variable,
 php.identifier.variable.name,
 php.identifier.argument.name {
-  color: #aab1ff;
+  color: #878cea;
 }
 php.type.identifier.name,
 php.namespace-traits.type-expression {
@@ -465,6 +468,9 @@ php.argument-expression.untyped {
 }
 php.sql.string-keyword {
   color: #80bbff;
+}
+php.type.identifier.name {
+  color: #faa3ff;
 }
 
 python.bracket,
