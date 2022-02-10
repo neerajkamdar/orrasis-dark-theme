@@ -2,6 +2,7 @@
 
 Updated some colours for PHP
 Updated colour for HTML links
+Updated icons
 
 ## Version 1.0.5
 
