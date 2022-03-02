@@ -1,3 +1,8 @@
+## Version 1.0.7
+
+Updated some colours for Blade template files
+Updated colour for HTML links
+
 ## Version 1.0.6
 
 Updated some colours for PHP
